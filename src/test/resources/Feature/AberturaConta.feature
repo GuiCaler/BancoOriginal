@@ -2,7 +2,7 @@
 Feature: Abertura Contas Nubank
 
   @tag1
-  Scenario: PJ
+  Scenario: Pessoa J
 Given que acesse a url "https://www.nubank.com.br"
 And NO CABEÇALHO SELECIONE PARA SEU NEGOCIO
 And CLICAR EM CONTA PJ
